@@ -1,0 +1,17 @@
+fun[+3]##The battery lasts long.
+size[+3]##It is a nice camera.
+##The car is expensive.
+small[+1]##I want to start off saying that this camera is small for a reason.
+##Some people, in their reviews, complain about its small size, and how it doesn't compare with larger cameras.  
+camera[+3],size[+2]##I'm in high school, and this camera is perfect for what I use it for, carrying it around in my pocket so I can take pictures whenever I want to, of my friends and of funny things that happen.
+memory[-2]##The only thing I don't like is the small size (8 MEG) memory card that comes with it.
+room[-2]##I have to move pictures off of it every day so I have room for more pictures the next, and I don't have enough money to buy the 256 MEG card that I've had my eye on for a while.
+camera[+3]##I'd say that this camera is perfect.
+[t]
+compact[+2]##OK, not quite everything...but this camera is so compact that you will have it by your side when you need it.
+[t]
+size[+2]##I bought this camera for the same reason many of you are considering it, or have already bought it--it's size.
+small[+3]##It is amazingly small, it's hard to believe all that has been packed into this camera.
+##I take it with me everywhere,literally, 
+small[+3],durable[+2]##it is so small that I am able to keep it in my pocket, and I don't have to fear that it will get ruined in my pocket because it is so durable.
+covering[+2]##There is also a small covering for the lens, so you need not worry that the lens will get scratched.
